@@ -1,4 +1,4 @@
-# Team_JAI
+# Team_JAIL
 
 CPSC 362 Employee Database Project
 
