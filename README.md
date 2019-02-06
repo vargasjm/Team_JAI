@@ -12,6 +12,7 @@ Angel Soto      a_soto@csu.fullerton.edu    714-271-0604
 
 
 Project Description--
+
 Title: Employee Database
 
 Overview: Log in system giving access to supervisors/managers/employees of employee information. Supervisors, managers, and employees view different items. Employee information consists of name, employee number, social security number, wage, address, and phone number. 
