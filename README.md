@@ -4,13 +4,13 @@ CPSC 362 Employee Database Project
 
 Members:
 
-Jessica Vargas  mvrgsj@csu.fullerton.edu    714-520-1839
+Jessica Vargas  mvrgsj@csu.fullerton.edu    
 
-Ivan Parrales   ivanparrales7726@gmail.com  323-503-6445
+Ivan Parrales   ivanparrales7726@gmail.com  
 
-Angel Soto      a_soto@csu.fullerton.edu    714-271-0604
+Angel Soto      a_soto@csu.fullerton.edu    
 
-Luan Nguyen   luantruong87@gmail.com    714-728-2975  
+Luan Nguyen   luantruong87@gmail.com    
 
 
 Project Description--
