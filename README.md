@@ -10,6 +10,8 @@ Ivan Parrales   ivanparrales7726@gmail.com  323-503-6445
 
 Angel Soto      a_soto@csu.fullerton.edu    714-271-0604
 
+Luan Nguyen   luantruong87@gmail.com    714-728-2975  
+
 
 Project Description--
 
